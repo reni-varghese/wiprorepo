@@ -1,4 +1,3 @@
 Dog
 Cat
 Tiger
-Lion
