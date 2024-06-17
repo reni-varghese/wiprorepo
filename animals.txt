@@ -2,3 +2,6 @@ Dog
 Cat
 Tiger
 Hippo
+Rino
+Lion
+Cow
